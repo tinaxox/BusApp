@@ -1,0 +1,187 @@
+{
+  "busLineId": "1",
+  "busDepartureA": [
+    {
+      "departureId": 253,
+      "departureTime": "05:00",
+      "routeName": "Драгобраћа - Ботуње"
+    },
+    {
+      "departureId": 10060,
+      "departureTime": "06:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 140,
+      "departureTime": "07:00",
+      "routeName": "Голочело - Корман"
+    },
+    {
+      "departureId": 10061,
+      "departureTime": "08:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 10062,
+      "departureTime": "09:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 11876,
+      "departureTime": "10:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 145,
+      "departureTime": "11:00",
+      "routeName": "Голочело - Корман"
+    },
+    {
+      "departureId": 254,
+      "departureTime": "12:00",
+      "routeName": "Драгобраћа - Ботуње"
+    },
+    {
+      "departureId": 10063,
+      "departureTime": "13:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 10064,
+      "departureTime": "14:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 255,
+      "departureTime": "15:00",
+      "routeName": "Драгобраћа - Ботуње"
+    },
+    {
+      "departureId": 146,
+      "departureTime": "16:00",
+      "routeName": "Голочело - Корман"
+    },
+    {
+      "departureId": 10069,
+      "departureTime": "17:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 10070,
+      "departureTime": "18:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 11920,
+      "departureTime": "19:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 256,
+      "departureTime": "20:00",
+      "routeName": "Драгобраћа - Ботуње"
+    },
+    {
+      "departureId": 10065,
+      "departureTime": "21:00",
+      "routeName": "Драгобраћа - Корман"
+    },
+    {
+      "departureId": 10066,
+      "departureTime": "22:00",
+      "routeName": "Драгобраћа - Корман"
+    }
+  ],
+  "busDepartureB": [
+    {
+      "departureId": 10094,
+      "departureTime": "05:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 11871,
+      "departureTime": "06:00",
+      "routeName": "Ботуње - Голочело"
+    },
+    {
+      "departureId": 10095,
+      "departureTime": "07:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 10096,
+      "departureTime": "08:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 11881,
+      "departureTime": "09:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 194,
+      "departureTime": "10:00",
+      "routeName": "Корман - Голочело"
+    },
+    {
+      "departureId": 10097,
+      "departureTime": "11:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 10098,
+      "departureTime": "12:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 327,
+      "departureTime": "13:00",
+      "routeName": "Ботуње - Драгобраћа"
+    },
+    {
+      "departureId": 10099,
+      "departureTime": "14:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 195,
+      "departureTime": "15:00",
+      "routeName": "Корман - Голочело"
+    },
+    {
+      "departureId": 328,
+      "departureTime": "16:00",
+      "routeName": "Ботуње - Драгобраћа"
+    },
+    {
+      "departureId": 10116,
+      "departureTime": "17:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 10100,
+      "departureTime": "18:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 10101,
+      "departureTime": "19:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 10102,
+      "departureTime": "20:00",
+      "routeName": "Корман - Драгобраћа"
+    },
+    {
+      "departureId": 329,
+      "departureTime": "21:00",
+      "routeName": "Ботуње - Драгобраћа"
+    },
+    {
+      "departureId": 10117,
+      "departureTime": "22:00",
+      "routeName": "Корман - Драгобраћа"
+    }
+  ]
+}

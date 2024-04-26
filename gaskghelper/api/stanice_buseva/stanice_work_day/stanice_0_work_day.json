@@ -1,0 +1,51 @@
+{
+  "busLineId": "0",
+  "busDepartureA": [
+    {
+      "departureId": 11870,
+      "startPoint": "Голочело",
+      "endPoint": "Ботуње",
+      "stops": [
+        {
+          "stanceId": 613,
+          "stanceIndex": "613",
+          "stanceName": "Голочело",
+          "stopTime": "04:50"
+        },
+        {
+          "stanceId": 613,
+          "stanceIndex": "613",
+          "stanceName": "Голочело",
+          "stopTime": "04:51"
+        },
+        {
+          "stanceId": 965,
+          "stanceIndex": "965",
+          "stanceName": "Голочело",
+          "stopTime": "04:52"
+        }
+      ]
+    }
+  ],
+  "busDepartureB": [
+    {
+      "departureId": 11870,
+      "startPoint": "Голочело",
+      "endPoint": "Ботуње",
+      "stops": [
+        {
+          "stanceId": 613,
+          "stanceIndex": "613",
+          "stanceName": "Голочело",
+          "stopTime": "04:58"
+        },
+        {
+          "stanceId": 965,
+          "stanceIndex": "965",
+          "stanceName": "Голочело",
+          "stopTime": "5:00"
+        }
+      ]
+    }
+  ]
+}

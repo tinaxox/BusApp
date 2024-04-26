@@ -1,0 +1,947 @@
+{
+  "busLineId": "613",
+  "busDepartureA": [
+    {
+      "departureId": 12499,
+      "startPoint": "Крагујевац",
+      "endPoint": "Лужнице - Мала Врбица",
+      "stops": [
+        {
+          "stanceId": 900,
+          "stanceIndex": "900",
+          "stanceName": "Аутобуска Станица 1",
+          "stopTime": "05:50"
+        },
+        {
+          "stanceId": 259,
+          "stanceIndex": "259",
+          "stanceName": "Хала Језеро 1",
+          "stopTime": "05:53"
+        },
+        {
+          "stanceId": 48,
+          "stanceIndex": "48",
+          "stanceName": "Узор",
+          "stopTime": "05:54"
+        },
+        {
+          "stanceId": 350,
+          "stanceIndex": "350",
+          "stanceName": "Болница",
+          "stopTime": "05:56"
+        },
+        {
+          "stanceId": 51,
+          "stanceIndex": "51",
+          "stanceName": "Житопродукт",
+          "stopTime": "05:57"
+        },
+        {
+          "stanceId": 356,
+          "stanceIndex": "356",
+          "stanceName": "Сушица",
+          "stopTime": "05:58"
+        },
+        {
+          "stanceId": 52,
+          "stanceIndex": "52",
+          "stanceName": "Шарена пијаца",
+          "stopTime": "05:59"
+        },
+        {
+          "stanceId": 53,
+          "stanceIndex": "53",
+          "stanceName": "Елвод",
+          "stopTime": "06:00"
+        },
+        {
+          "stanceId": 54,
+          "stanceIndex": "54",
+          "stanceName": "Јабучар",
+          "stopTime": "06:01"
+        },
+        {
+          "stanceId": 55,
+          "stanceIndex": "55",
+          "stanceName": "Милицијска Станови",
+          "stopTime": "06:02"
+        },
+        {
+          "stanceId": 361,
+          "stanceIndex": "361",
+          "stanceName": "Петровац",
+          "stopTime": "06:03"
+        },
+        {
+          "stanceId": 362,
+          "stanceIndex": "362",
+          "stanceName": "Гранд",
+          "stopTime": "06:04"
+        },
+        {
+          "stanceId": 363,
+          "stanceIndex": "363",
+          "stanceName": "Росићи",
+          "stopTime": "06:05"
+        },
+        {
+          "stanceId": 364,
+          "stanceIndex": "364",
+          "stanceName": "Шумски Рај",
+          "stopTime": "06:06"
+        },
+        {
+          "stanceId": 365,
+          "stanceIndex": "365",
+          "stanceName": "Руски Споменик",
+          "stopTime": "06:07"
+        },
+        {
+          "stanceId": 366,
+          "stanceIndex": "366",
+          "stanceName": "Опорница",
+          "stopTime": "06:08"
+        },
+        {
+          "stanceId": 583,
+          "stanceIndex": "583",
+          "stanceName": "Викенд Насеље Десимировац",
+          "stopTime": "06:09"
+        },
+        {
+          "stanceId": 336,
+          "stanceIndex": "336",
+          "stanceName": "Десимировац Пумпа",
+          "stopTime": "06:11"
+        },
+        {
+          "stanceId": 618,
+          "stanceIndex": "618",
+          "stanceName": "Мркојевац",
+          "stopTime": "06:12"
+        },
+        {
+          "stanceId": 619,
+          "stanceIndex": "619",
+          "stanceName": "Стари Млин",
+          "stopTime": "06:13"
+        },
+        {
+          "stanceId": 597,
+          "stanceIndex": "597",
+          "stanceName": "Церовац Дом",
+          "stopTime": "06:14"
+        },
+        {
+          "stanceId": 598,
+          "stanceIndex": "598",
+          "stanceName": "Церовац Раскрсница",
+          "stopTime": "06:15"
+        },
+        {
+          "stanceId": 616,
+          "stanceIndex": "616",
+          "stanceName": "Пуавице",
+          "stopTime": "06:16"
+        },
+        {
+          "stanceId": 659,
+          "stanceIndex": "659",
+          "stanceName": "Лужнице Раскрсница",
+          "stopTime": "06:17"
+        },
+        {
+          "stanceId": 660,
+          "stanceIndex": "660",
+          "stanceName": "Задруга",
+          "stopTime": "06:18"
+        },
+        {
+          "stanceId": 667,
+          "stanceIndex": "667",
+          "stanceName": "Кафана",
+          "stopTime": "06:19"
+        },
+        {
+          "stanceId": 911,
+          "stanceIndex": "911",
+          "stanceName": "Лужнице",
+          "stopTime": "06:20"
+        },
+        {
+          "stanceId": 668,
+          "stanceIndex": "668",
+          "stanceName": "Катанићи",
+          "stopTime": "06:21"
+        },
+        {
+          "stanceId": 670,
+          "stanceIndex": "670",
+          "stanceName": "Јефтићи",
+          "stopTime": "06:22"
+        },
+        {
+          "stanceId": 891,
+          "stanceIndex": "891",
+          "stanceName": "Мали Шењ",
+          "stopTime": "06:23"
+        },
+        {
+          "stanceId": 678,
+          "stanceIndex": "678",
+          "stanceName": "Геловића Куће",
+          "stopTime": "06:24"
+        },
+        {
+          "stanceId": 609,
+          "stanceIndex": "609",
+          "stanceName": "Пајазитово",
+          "stopTime": "06:25"
+        },
+        {
+          "stanceId": 686,
+          "stanceIndex": "686",
+          "stanceName": "Миронић",
+          "stopTime": "06:27"
+        },
+        {
+          "stanceId": 687,
+          "stanceIndex": "687",
+          "stanceName": "Кречане",
+          "stopTime": "06:31"
+        },
+        {
+          "stanceId": 688,
+          "stanceIndex": "688",
+          "stanceName": "Продавница Велики Шењ",
+          "stopTime": "06:32"
+        },
+        {
+          "stanceId": 689,
+          "stanceIndex": "689",
+          "stanceName": "В. Шењ Школа",
+          "stopTime": "06:33"
+        },
+        {
+          "stanceId": 890,
+          "stanceIndex": "890",
+          "stanceName": "Марковића Куће",
+          "stopTime": "06:34"
+        },
+        {
+          "stanceId": 608,
+          "stanceIndex": "608",
+          "stanceName": "Мала Врбица",
+          "stopTime": "06:35"
+        }
+      ]
+    },
+    {
+      "departureId": 12500,
+      "startPoint": "Крагујевац",
+      "endPoint": "Лужнице - Мала Врбица",
+      "stops": [
+        {
+          "stanceId": 900,
+          "stanceIndex": "900",
+          "stanceName": "Аутобуска Станица 1",
+          "stopTime": "12:30"
+        },
+        {
+          "stanceId": 259,
+          "stanceIndex": "259",
+          "stanceName": "Хала Језеро 1",
+          "stopTime": "12:33"
+        },
+        {
+          "stanceId": 48,
+          "stanceIndex": "48",
+          "stanceName": "Узор",
+          "stopTime": "12:34"
+        },
+        {
+          "stanceId": 350,
+          "stanceIndex": "350",
+          "stanceName": "Болница",
+          "stopTime": "12:36"
+        },
+        {
+          "stanceId": 51,
+          "stanceIndex": "51",
+          "stanceName": "Житопродукт",
+          "stopTime": "12:37"
+        },
+        {
+          "stanceId": 356,
+          "stanceIndex": "356",
+          "stanceName": "Сушица",
+          "stopTime": "12:38"
+        },
+        {
+          "stanceId": 52,
+          "stanceIndex": "52",
+          "stanceName": "Шарена пијаца",
+          "stopTime": "12:39"
+        },
+        {
+          "stanceId": 53,
+          "stanceIndex": "53",
+          "stanceName": "Елвод",
+          "stopTime": "12:40"
+        },
+        {
+          "stanceId": 54,
+          "stanceIndex": "54",
+          "stanceName": "Јабучар",
+          "stopTime": "12:41"
+        },
+        {
+          "stanceId": 55,
+          "stanceIndex": "55",
+          "stanceName": "Милицијска Станови",
+          "stopTime": "12:42"
+        },
+        {
+          "stanceId": 361,
+          "stanceIndex": "361",
+          "stanceName": "Петровац",
+          "stopTime": "12:43"
+        },
+        {
+          "stanceId": 362,
+          "stanceIndex": "362",
+          "stanceName": "Гранд",
+          "stopTime": "12:44"
+        },
+        {
+          "stanceId": 363,
+          "stanceIndex": "363",
+          "stanceName": "Росићи",
+          "stopTime": "12:45"
+        },
+        {
+          "stanceId": 364,
+          "stanceIndex": "364",
+          "stanceName": "Шумски Рај",
+          "stopTime": "12:46"
+        },
+        {
+          "stanceId": 365,
+          "stanceIndex": "365",
+          "stanceName": "Руски Споменик",
+          "stopTime": "12:47"
+        },
+        {
+          "stanceId": 366,
+          "stanceIndex": "366",
+          "stanceName": "Опорница",
+          "stopTime": "12:48"
+        },
+        {
+          "stanceId": 583,
+          "stanceIndex": "583",
+          "stanceName": "Викенд Насеље Десимировац",
+          "stopTime": "12:49"
+        },
+        {
+          "stanceId": 336,
+          "stanceIndex": "336",
+          "stanceName": "Десимировац Пумпа",
+          "stopTime": "12:51"
+        },
+        {
+          "stanceId": 618,
+          "stanceIndex": "618",
+          "stanceName": "Мркојевац",
+          "stopTime": "12:52"
+        },
+        {
+          "stanceId": 619,
+          "stanceIndex": "619",
+          "stanceName": "Стари Млин",
+          "stopTime": "12:53"
+        },
+        {
+          "stanceId": 597,
+          "stanceIndex": "597",
+          "stanceName": "Церовац Дом",
+          "stopTime": "12:54"
+        },
+        {
+          "stanceId": 598,
+          "stanceIndex": "598",
+          "stanceName": "Церовац Раскрсница",
+          "stopTime": "12:55"
+        },
+        {
+          "stanceId": 616,
+          "stanceIndex": "616",
+          "stanceName": "Пуавице",
+          "stopTime": "12:56"
+        },
+        {
+          "stanceId": 659,
+          "stanceIndex": "659",
+          "stanceName": "Лужнице Раскрсница",
+          "stopTime": "12:57"
+        },
+        {
+          "stanceId": 660,
+          "stanceIndex": "660",
+          "stanceName": "Задруга",
+          "stopTime": "12:58"
+        },
+        {
+          "stanceId": 667,
+          "stanceIndex": "667",
+          "stanceName": "Кафана",
+          "stopTime": "12:59"
+        },
+        {
+          "stanceId": 911,
+          "stanceIndex": "911",
+          "stanceName": "Лужнице",
+          "stopTime": "13:00"
+        },
+        {
+          "stanceId": 668,
+          "stanceIndex": "668",
+          "stanceName": "Катанићи",
+          "stopTime": "13:01"
+        },
+        {
+          "stanceId": 670,
+          "stanceIndex": "670",
+          "stanceName": "Јефтићи",
+          "stopTime": "13:02"
+        },
+        {
+          "stanceId": 891,
+          "stanceIndex": "891",
+          "stanceName": "Мали Шењ",
+          "stopTime": "13:03"
+        },
+        {
+          "stanceId": 678,
+          "stanceIndex": "678",
+          "stanceName": "Геловића Куће",
+          "stopTime": "13:04"
+        },
+        {
+          "stanceId": 609,
+          "stanceIndex": "609",
+          "stanceName": "Пајазитово",
+          "stopTime": "13:05"
+        },
+        {
+          "stanceId": 686,
+          "stanceIndex": "686",
+          "stanceName": "Миронић",
+          "stopTime": "13:07"
+        },
+        {
+          "stanceId": 687,
+          "stanceIndex": "687",
+          "stanceName": "Кречане",
+          "stopTime": "13:11"
+        },
+        {
+          "stanceId": 688,
+          "stanceIndex": "688",
+          "stanceName": "Продавница Велики Шењ",
+          "stopTime": "13:12"
+        },
+        {
+          "stanceId": 689,
+          "stanceIndex": "689",
+          "stanceName": "В. Шењ Школа",
+          "stopTime": "13:13"
+        },
+        {
+          "stanceId": 890,
+          "stanceIndex": "890",
+          "stanceName": "Марковића Куће",
+          "stopTime": "13:14"
+        },
+        {
+          "stanceId": 608,
+          "stanceIndex": "608",
+          "stanceName": "Мала Врбица",
+          "stopTime": "13:15"
+        }
+      ]
+    }
+  ],
+  "busDepartureB": [
+    {
+      "departureId": 12540,
+      "startPoint": "Мала Врбица",
+      "endPoint": "Лужнице - Крагујевац",
+      "stops": [
+        {
+          "stanceId": 608,
+          "stanceIndex": "608",
+          "stanceName": "Мала Врбица",
+          "stopTime": "06:45"
+        },
+        {
+          "stanceId": 690,
+          "stanceIndex": "690",
+          "stanceName": "Марковића Куће",
+          "stopTime": "06:46"
+        },
+        {
+          "stanceId": 389,
+          "stanceIndex": "389",
+          "stanceName": "В. Шењ Школа",
+          "stopTime": "06:47"
+        },
+        {
+          "stanceId": 388,
+          "stanceIndex": "388",
+          "stanceName": "Продавница Велики Шењ",
+          "stopTime": "06:48"
+        },
+        {
+          "stanceId": 387,
+          "stanceIndex": "387",
+          "stanceName": "Кречане",
+          "stopTime": "06:50"
+        },
+        {
+          "stanceId": 386,
+          "stanceIndex": "386",
+          "stanceName": "Миронић",
+          "stopTime": "06:54"
+        },
+        {
+          "stanceId": 609,
+          "stanceIndex": "609",
+          "stanceName": "Пајазитово",
+          "stopTime": "06:56"
+        },
+        {
+          "stanceId": 378,
+          "stanceIndex": "378",
+          "stanceName": "Геловића Куће",
+          "stopTime": "06:57"
+        },
+        {
+          "stanceId": 691,
+          "stanceIndex": "691",
+          "stanceName": "Мали Шењ",
+          "stopTime": "06:59"
+        },
+        {
+          "stanceId": 370,
+          "stanceIndex": "370",
+          "stanceName": "Јефтићи",
+          "stopTime": "07:01"
+        },
+        {
+          "stanceId": 368,
+          "stanceIndex": "368",
+          "stanceName": "Катанићи",
+          "stopTime": "07:02"
+        },
+        {
+          "stanceId": 611,
+          "stanceIndex": "611",
+          "stanceName": "Лужнице",
+          "stopTime": "07:03"
+        },
+        {
+          "stanceId": 367,
+          "stanceIndex": "367",
+          "stanceName": "Кафана",
+          "stopTime": "07:04"
+        },
+        {
+          "stanceId": 360,
+          "stanceIndex": "360",
+          "stanceName": "Задруга",
+          "stopTime": "07:05"
+        },
+        {
+          "stanceId": 359,
+          "stanceIndex": "359",
+          "stanceName": "Лужнице Раскрсница",
+          "stopTime": "07:06"
+        },
+        {
+          "stanceId": 316,
+          "stanceIndex": "316",
+          "stanceName": "Пуавице",
+          "stopTime": "07:07"
+        },
+        {
+          "stanceId": 298,
+          "stanceIndex": "298",
+          "stanceName": "Церовац Раскрсница",
+          "stopTime": "07:08"
+        },
+        {
+          "stanceId": 297,
+          "stanceIndex": "297",
+          "stanceName": "Церовац Дом",
+          "stopTime": "07:09"
+        },
+        {
+          "stanceId": 296,
+          "stanceIndex": "296",
+          "stanceName": "Стари Млин",
+          "stopTime": "07:11"
+        },
+        {
+          "stanceId": 295,
+          "stanceIndex": "295",
+          "stanceName": "Мркојевац",
+          "stopTime": "07:12"
+        },
+        {
+          "stanceId": 36,
+          "stanceIndex": "36",
+          "stanceName": "Десимировац Пумпа",
+          "stopTime": "07:13"
+        },
+        {
+          "stanceId": 283,
+          "stanceIndex": "283",
+          "stanceName": "Викенд Насеље Десимировац",
+          "stopTime": "07:14"
+        },
+        {
+          "stanceId": 66,
+          "stanceIndex": "66",
+          "stanceName": "Опорница",
+          "stopTime": "07:15"
+        },
+        {
+          "stanceId": 65,
+          "stanceIndex": "65",
+          "stanceName": "Руски Споменик",
+          "stopTime": "07:16"
+        },
+        {
+          "stanceId": 64,
+          "stanceIndex": "64",
+          "stanceName": "Шумски Рај",
+          "stopTime": "07:17"
+        },
+        {
+          "stanceId": 63,
+          "stanceIndex": "63",
+          "stanceName": "Росићи",
+          "stopTime": "07:18"
+        },
+        {
+          "stanceId": 62,
+          "stanceIndex": "62",
+          "stanceName": "Гранд",
+          "stopTime": "07:19"
+        },
+        {
+          "stanceId": 61,
+          "stanceIndex": "61",
+          "stanceName": "Петровац",
+          "stopTime": "07:20"
+        },
+        {
+          "stanceId": 60,
+          "stanceIndex": "60",
+          "stanceName": "Стовариште",
+          "stopTime": "07:21"
+        },
+        {
+          "stanceId": 59,
+          "stanceIndex": "59",
+          "stanceName": "Јабучар",
+          "stopTime": "07:22"
+        },
+        {
+          "stanceId": 58,
+          "stanceIndex": "58",
+          "stanceName": "Богословија",
+          "stopTime": "07:24"
+        },
+        {
+          "stanceId": 57,
+          "stanceIndex": "57",
+          "stanceName": "Хангар",
+          "stopTime": "07:25"
+        },
+        {
+          "stanceId": 56,
+          "stanceIndex": "56",
+          "stanceName": "Сушица",
+          "stopTime": "07:26"
+        },
+        {
+          "stanceId": 118,
+          "stanceIndex": "118",
+          "stanceName": "Студентски Дом",
+          "stopTime": "07:28"
+        },
+        {
+          "stanceId": 50,
+          "stanceIndex": "50",
+          "stanceName": "Болница",
+          "stopTime": "07:29"
+        },
+        {
+          "stanceId": 49,
+          "stanceIndex": "49",
+          "stanceName": "Мала Пијаца",
+          "stopTime": "07:31"
+        },
+        {
+          "stanceId": 559,
+          "stanceIndex": "559",
+          "stanceName": "Хала Језеро 2",
+          "stopTime": "07:32"
+        },
+        {
+          "stanceId": 900,
+          "stanceIndex": "900",
+          "stanceName": "Аутобуска Станица 1",
+          "stopTime": "07:35"
+        }
+      ]
+    },
+    {
+      "departureId": 12541,
+      "startPoint": "Мала Врбица",
+      "endPoint": "Лужнице - Крагујевац",
+      "stops": [
+        {
+          "stanceId": 608,
+          "stanceIndex": "608",
+          "stanceName": "Мала Врбица",
+          "stopTime": "13:30"
+        },
+        {
+          "stanceId": 690,
+          "stanceIndex": "690",
+          "stanceName": "Марковића Куће",
+          "stopTime": "13:31"
+        },
+        {
+          "stanceId": 389,
+          "stanceIndex": "389",
+          "stanceName": "В. Шењ Школа",
+          "stopTime": "13:32"
+        },
+        {
+          "stanceId": 388,
+          "stanceIndex": "388",
+          "stanceName": "Продавница Велики Шењ",
+          "stopTime": "13:33"
+        },
+        {
+          "stanceId": 387,
+          "stanceIndex": "387",
+          "stanceName": "Кречане",
+          "stopTime": "13:35"
+        },
+        {
+          "stanceId": 386,
+          "stanceIndex": "386",
+          "stanceName": "Миронић",
+          "stopTime": "13:39"
+        },
+        {
+          "stanceId": 609,
+          "stanceIndex": "609",
+          "stanceName": "Пајазитово",
+          "stopTime": "13:41"
+        },
+        {
+          "stanceId": 378,
+          "stanceIndex": "378",
+          "stanceName": "Геловића Куће",
+          "stopTime": "13:42"
+        },
+        {
+          "stanceId": 691,
+          "stanceIndex": "691",
+          "stanceName": "Мали Шењ",
+          "stopTime": "13:44"
+        },
+        {
+          "stanceId": 370,
+          "stanceIndex": "370",
+          "stanceName": "Јефтићи",
+          "stopTime": "13:46"
+        },
+        {
+          "stanceId": 368,
+          "stanceIndex": "368",
+          "stanceName": "Катанићи",
+          "stopTime": "13:47"
+        },
+        {
+          "stanceId": 611,
+          "stanceIndex": "611",
+          "stanceName": "Лужнице",
+          "stopTime": "13:48"
+        },
+        {
+          "stanceId": 367,
+          "stanceIndex": "367",
+          "stanceName": "Кафана",
+          "stopTime": "13:49"
+        },
+        {
+          "stanceId": 360,
+          "stanceIndex": "360",
+          "stanceName": "Задруга",
+          "stopTime": "13:50"
+        },
+        {
+          "stanceId": 359,
+          "stanceIndex": "359",
+          "stanceName": "Лужнице Раскрсница",
+          "stopTime": "13:51"
+        },
+        {
+          "stanceId": 316,
+          "stanceIndex": "316",
+          "stanceName": "Пуавице",
+          "stopTime": "13:52"
+        },
+        {
+          "stanceId": 298,
+          "stanceIndex": "298",
+          "stanceName": "Церовац Раскрсница",
+          "stopTime": "13:53"
+        },
+        {
+          "stanceId": 297,
+          "stanceIndex": "297",
+          "stanceName": "Церовац Дом",
+          "stopTime": "13:54"
+        },
+        {
+          "stanceId": 296,
+          "stanceIndex": "296",
+          "stanceName": "Стари Млин",
+          "stopTime": "13:56"
+        },
+        {
+          "stanceId": 295,
+          "stanceIndex": "295",
+          "stanceName": "Мркојевац",
+          "stopTime": "13:57"
+        },
+        {
+          "stanceId": 36,
+          "stanceIndex": "36",
+          "stanceName": "Десимировац Пумпа",
+          "stopTime": "13:58"
+        },
+        {
+          "stanceId": 283,
+          "stanceIndex": "283",
+          "stanceName": "Викенд Насеље Десимировац",
+          "stopTime": "13:59"
+        },
+        {
+          "stanceId": 66,
+          "stanceIndex": "66",
+          "stanceName": "Опорница",
+          "stopTime": "14:00"
+        },
+        {
+          "stanceId": 65,
+          "stanceIndex": "65",
+          "stanceName": "Руски Споменик",
+          "stopTime": "14:01"
+        },
+        {
+          "stanceId": 64,
+          "stanceIndex": "64",
+          "stanceName": "Шумски Рај",
+          "stopTime": "14:02"
+        },
+        {
+          "stanceId": 63,
+          "stanceIndex": "63",
+          "stanceName": "Росићи",
+          "stopTime": "14:03"
+        },
+        {
+          "stanceId": 62,
+          "stanceIndex": "62",
+          "stanceName": "Гранд",
+          "stopTime": "14:04"
+        },
+        {
+          "stanceId": 61,
+          "stanceIndex": "61",
+          "stanceName": "Петровац",
+          "stopTime": "14:05"
+        },
+        {
+          "stanceId": 60,
+          "stanceIndex": "60",
+          "stanceName": "Стовариште",
+          "stopTime": "14:06"
+        },
+        {
+          "stanceId": 59,
+          "stanceIndex": "59",
+          "stanceName": "Јабучар",
+          "stopTime": "14:07"
+        },
+        {
+          "stanceId": 58,
+          "stanceIndex": "58",
+          "stanceName": "Богословија",
+          "stopTime": "14:09"
+        },
+        {
+          "stanceId": 57,
+          "stanceIndex": "57",
+          "stanceName": "Хангар",
+          "stopTime": "14:10"
+        },
+        {
+          "stanceId": 56,
+          "stanceIndex": "56",
+          "stanceName": "Сушица",
+          "stopTime": "14:11"
+        },
+        {
+          "stanceId": 118,
+          "stanceIndex": "118",
+          "stanceName": "Студентски Дом",
+          "stopTime": "14:13"
+        },
+        {
+          "stanceId": 50,
+          "stanceIndex": "50",
+          "stanceName": "Болница",
+          "stopTime": "14:14"
+        },
+        {
+          "stanceId": 49,
+          "stanceIndex": "49",
+          "stanceName": "Мала Пијаца",
+          "stopTime": "14:16"
+        },
+        {
+          "stanceId": 559,
+          "stanceIndex": "559",
+          "stanceName": "Хала Језеро 2",
+          "stopTime": "14:17"
+        },
+        {
+          "stanceId": 900,
+          "stanceIndex": "900",
+          "stanceName": "Аутобуска Станица 1",
+          "stopTime": "14:20"
+        }
+      ]
+    }
+  ]
+}

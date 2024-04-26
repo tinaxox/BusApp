@@ -1,0 +1,13 @@
+.icon {
+  height: 2.5em;
+  width: 2.5em;
+}
+
+.btn-group button {
+  background-color: D9D9D9;
+  border: none;
+  padding: 2.7em 7.3em;
+  margin: 4em 1em 1em 0.4em;
+  cursor: pointer;
+  float: left;
+}
